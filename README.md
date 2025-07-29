@@ -2,6 +2,10 @@
 
 Halo 2.0 的通用评论组件插件，为前台提供完整的评论解决方案。
 
+## 修改
+
+删除了 `HeadProcessor`, 改为由 [plugin-injector](https://github.com/Erzbir/halo-plugin-injector) 来控制注入
+
 ## 使用方式
 
 1. 下载，目前提供以下两个下载方式：
