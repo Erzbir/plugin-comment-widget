@@ -12,7 +12,7 @@ import reactor.core.publisher.Mono;
 import run.halo.app.plugin.PluginContext;
 import run.halo.app.theme.dialect.TemplateHeadProcessor;
 
-@Component
+//@Component
 @RequiredArgsConstructor
 public class CommentWidgetHeadProcessor implements TemplateHeadProcessor {
 
